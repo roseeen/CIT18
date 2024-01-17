@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const nav = document.querySelector('nav');
 
     const darkModeToggle = document.createElement('button');
-    darkModeToggle.textContent = 'Toggle Dark Mode';
+    darkModeToggle.textContent = 'Dark Mode';
     document.body.appendChild(darkModeToggle);
 
     darkModeToggle.addEventListener('click', function () {
