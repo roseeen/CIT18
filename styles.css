@@ -199,11 +199,11 @@ section:hover {
 }
 
 .dark-mode {
-  filter: invert(1); 
+  filter: invert(1);
 }
 
 .dark-mode-header {
-  background-color: #333; 
+  background-color: #333;
   color: #fff; 
 }
 
@@ -220,3 +220,4 @@ section:hover {
 #contact.dark-mode-section {
   background-color: #666; 
   color: #fff; 
+}
