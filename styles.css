@@ -203,21 +203,20 @@ section:hover {
 }
 
 .dark-mode-header {
-  background-color: #333; /* Dark background color for header in dark mode */
-  color: #fff; /* Light text color for header in dark mode */
+  background-color: #333; 
+  color: #fff; 
 }
 
 .dark-mode-section {
-  background-color: #444; /* Dark background color for sections in dark mode */
-  color: #fff; /* Light text color for sections in dark mode */
+  background-color: #444; 
+  color: #fff; 
 }
 
 .dark-mode-box {
-  background-color: #555; /* Dark background color for project boxes in dark mode */
-  color: #fff; /* Light text color for project boxes in dark mode */
+  background-color: #555; 
+  color: #fff; 
 }
 
 #contact.dark-mode-section {
-  background-color: #666; /* Dark background color for contact section in dark mode */
-  color: #fff; /* Light text color for contact section in dark mode */
-}
+  background-color: #666; 
+  color: #fff; 
