@@ -198,6 +198,9 @@ section:hover {
   padding: 5px 10px;
 }
 
+.dark-mode {
+}
+
 .dark-mode-header {
   background-color: #333; /* Dark background color for header in dark mode */
   color: #fff; /* Light text color for header in dark mode */
