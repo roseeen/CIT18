@@ -199,6 +199,7 @@ section:hover {
 }
 
 .dark-mode {
+  filter: invert(1); 
 }
 
 .dark-mode-header {
