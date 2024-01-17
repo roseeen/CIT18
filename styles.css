@@ -199,12 +199,25 @@ section:hover {
 }
 
 .dark-mode {
+  filter: invert(1);
 }
 
-header.dark-mode-header,
-section.dark-mode-section,
-.project-box.dark-mode-box,
+.dark-mode-header {
+  background-color: #333; /* Dark background color for header in dark mode */
+  color: #fff; /* Light text color for header in dark mode */
+}
+
+.dark-mode-section {
+  background-color: #444; /* Dark background color for sections in dark mode */
+  color: #fff; /* Light text color for sections in dark mode */
+}
+
+.dark-mode-box {
+  background-color: #555; /* Dark background color for project boxes in dark mode */
+  color: #fff; /* Light text color for project boxes in dark mode */
+}
+
 #contact.dark-mode-section {
-  background-color: #333; 
-  color: #fff; 
+  background-color: #666; /* Dark background color for contact section in dark mode */
+  color: #fff; /* Light text color for contact section in dark mode */
 }
