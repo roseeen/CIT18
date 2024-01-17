@@ -221,3 +221,20 @@ section:hover {
   background-color: #666; 
   color: #fff; 
 }
+
+button {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  padding: 10px;
+  cursor: pointer;
+  background-color: #393E46;
+  color: #ecf0f1;
+  border: none;
+  border-radius: 5px;
+  font-size: 14px;
+}
+
+button:hover {
+  background-color: #929AAB;
+}
